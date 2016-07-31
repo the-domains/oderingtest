@@ -1,0 +1,14 @@
+layout_spectrum: 0.8022409901022911
+typography_spectrum: 0.4828851195052266
+color:
+  brandStrength: 0.5405935756862164
+  lightness: 0.9413293933030218
+  saturation: 0.05271541071124375
+  rhythmicContrast: 0.5095345643348992
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: oderingtest
